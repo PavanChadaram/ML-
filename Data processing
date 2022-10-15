@@ -1,0 +1,5 @@
+import pandas as pd
+import numpy as np
+
+a = {'First':1,'Second' :2}
+print(np(a))
